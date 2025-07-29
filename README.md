@@ -1,16 +1,21 @@
-# todo_app
+# Flutter TODO App
 
-A new Flutter project.
+Aplikacja TODO napisana we Flutterze, z backendem w FastAPI (w planie).
 
-## Getting Started
+## 🔧 Etapy pracy
 
-This project is a starting point for a Flutter application.
+### Etap 1 – Flutter bez backendu
+- [x] Stworzenie projektu Flutter
+- [ ] Dodanie pola tekstowego i przycisku
+- [ ] Wyświetlanie listy zadań (lokalnie)
+- [ ] Checkbox: zadanie zrobione
+- [ ] Usuwanie zadania
 
-A few resources to get you started if this is your first Flutter project:
+### Etap 2 – Backend (FastAPI)
+- [ ] Utworzenie API: GET, POST, DELETE
+- [ ] Testowanie API w Postmanie
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Etap 3 – Połączenie Flutter + API
+- [ ] Pobieranie danych z API
+- [ ] Dodawanie zadań do backendu
+- [ ] Synchronizacja listy
