@@ -6,7 +6,7 @@ Aplikacja TODO napisana we Flutterze, z backendem w FastAPI (w planie).
 
 ### Etap 1 – Flutter bez backendu
 - [x] Stworzenie projektu Flutter
-- [ ] Dodanie pola tekstowego i przycisku
+- [x] Dodanie pola tekstowego i przycisku
 - [ ] Wyświetlanie listy zadań (lokalnie)
 - [ ] Checkbox: zadanie zrobione
 - [ ] Usuwanie zadania
